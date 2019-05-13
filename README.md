@@ -15,8 +15,6 @@ First login with the instructor account and select a course:
 
 - #1 http://[atutor address]/atutor/bounce.php?course=1
 
-[GitHub Logo](https://raw.githubusercontent.com/fuzzlove/ATutor-Instructor-Backup-Arbitrary-File/master/1_Atutor_Course.jpg)
-
 Then navigate to "Manage"
 
 - #2 http://[atutor address]/atutor/tools/index.php
