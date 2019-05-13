@@ -37,3 +37,5 @@ Note: The "1" in the address will change based on the course number and the "con
 However by default the installation calls for the dir name to be "content". This has been tested on both linux/windows installations.
 
 - A copy of the PoC zip file (pwned_backup.zip) can be downloaded: https://github.com/fuzzlove/ATutor-Instructor-Backup-Arbitrary-File
+
+Screenshots included to show exact steps to successfully reenact exploit.
