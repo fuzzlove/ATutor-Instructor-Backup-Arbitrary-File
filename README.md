@@ -9,7 +9,7 @@
 - Version: < 2.2.4 (REQUIRED)
 - Tested on: Windows 7 with XAMPP / Linux 3.16.0-4-amd64 with version 2.2.4 and 2.2.1
 
-ATutor 2.2.4 is vulnerable to arbitrary file uploads via the backup function resulting in remote command execution.
+ATutor 2.2.4 is vulnerable to arbitrary file uploads via the backup function that may result in remote command execution.
 
 First login with the instructor account and select a course:
 
