@@ -23,7 +23,7 @@ Next select Backups/Upload
 
 #3 http://[atutor address]/atutor/mods/_core/backups/upload.php
 
-From here a specially crafted backup zip file can be uploaded that will result in remote command execution.
+From here a specially crafted backup zip file i.e "pwned_backup.zip" can be uploaded that will result in remote command execution.
 
 The PoC arbitrary file can be found at:
 http://[atutor address]/atutor/content/1/pwned/poc.PhP
