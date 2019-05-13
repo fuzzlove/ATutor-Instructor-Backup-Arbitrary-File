@@ -6,7 +6,7 @@
 - Exploit Author: Joseph McPeters
 - Vendor Homepage: https://atutor.github.io/
 - Software Link: https://sourceforge.net/projects/atutor/files/latest/download
-- Version: < 2.2.4 (REQUIRED)
+- Version: < 2.2.4 (Versions 2.2.4 and prior seem to be affected)
 - Tested on: Windows 7 with XAMPP / Linux 3.16.0-4-amd64 with version 2.2.4 and 2.2.1
 
 ATutor 2.2.4 is vulnerable to arbitrary file uploads via the backup function that may result in remote command execution.
