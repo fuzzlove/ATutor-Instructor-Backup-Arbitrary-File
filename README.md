@@ -3,7 +3,7 @@
 - Exploit Title: ATutor 2.2.4 'Backup' Remote Command Execution 
 - Google Dork: inurl:/ATutor/login.php
 - Date: 5/13/2019
-- Exploit Author: Joseph McPeters
+- Exploit Author: liquidsky (Joseph McPeters)
 - Vendor Homepage: https://atutor.github.io/
 - Software Link: https://sourceforge.net/projects/atutor/files/latest/download
 - Version: < 2.2.4 (Versions 2.2.4 and prior seem to be affected)
