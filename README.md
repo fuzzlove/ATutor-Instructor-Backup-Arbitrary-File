@@ -1,13 +1,13 @@
 # ATutor-Instructor-Backup-Exploit
 
-# Exploit Title: ATutor 2.2.4 'Backup' Remote Command Execution 
-# Google Dork: inurl:/ATutor/login.php
-# Date: 5/13/2019
-# Exploit Author: Joseph McPeters
-# Vendor Homepage: https://atutor.github.io/
-# Software Link: https://sourceforge.net/projects/atutor/files/latest/download
-# Version: < 2.2.4 (REQUIRED)
-# Tested on: Windows 7 with XAMPP / Linux 3.16.0-4-amd64 with version 2.2.4 and 2.2.1
+- Exploit Title: ATutor 2.2.4 'Backup' Remote Command Execution 
+- Google Dork: inurl:/ATutor/login.php
+- Date: 5/13/2019
+- Exploit Author: Joseph McPeters
+- Vendor Homepage: https://atutor.github.io/
+- Software Link: https://sourceforge.net/projects/atutor/files/latest/download
+- Version: < 2.2.4 (REQUIRED)
+- Tested on: Windows 7 with XAMPP / Linux 3.16.0-4-amd64 with version 2.2.4 and 2.2.1
 
 ATutor 2.2.4 is vulnerable to arbitrary file uploads via the backup function resulting in remote command execution.
 
