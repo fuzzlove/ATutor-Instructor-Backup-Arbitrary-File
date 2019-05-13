@@ -13,15 +13,15 @@ ATutor 2.2.4 is vulnerable to arbitrary file uploads via the backup function tha
 
 First login with the instructor account and select a course:
 
-#1 http://[atutor address]/atutor/bounce.php?course=1
+- #1 http://[atutor address]/atutor/bounce.php?course=1
 
 Then navigate to "Manage"
 
-#2 http://[atutor address]/atutor/tools/index.php
+- #2 http://[atutor address]/atutor/tools/index.php
 
 Next select Backups/Upload
 
-#3 http://[atutor address]/atutor/mods/_core/backups/upload.php
+- #3 http://[atutor address]/atutor/mods/_core/backups/upload.php
 
 From here a specially crafted backup zip file i.e "pwned_backup.zip" can be uploaded that will result in remote command execution.
 
