@@ -34,3 +34,5 @@ C:\xampp\htdocs\ATutor\content\1\pwned\poc.PhP
 
 Note: The "1" in the address will change based on the course number and the "content" directory may be different.
 However by default the installation calls for the dir name to be "content". This has been tested on both linux/windows installations.
+
+- A copy of the PoC zip file can be downloaded https://github.com/fuzzlove/ATutor-Instructor-Backup-Arbitrary-File
