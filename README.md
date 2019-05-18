@@ -9,7 +9,7 @@
 - Version: < 2.2.4 (Versions 2.2.4 and prior seem to be affected)
 - Tested on: Windows 7 with XAMPP / Linux 3.16.0-4-amd64 with version 2.2.4 and 2.2.1
 - Authors Site: http://incidentsecurity.com/atutor-2-2-4-backup-remote-command-execution/
-- CVE: CVE-2019-12170
+- CVE: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12170
 
 ATutor 2.2.4 is vulnerable to arbitrary file uploads via the backup function that may result in remote command execution.
 
