@@ -1,6 +1,6 @@
 # ATutor-Instructor-Backup-Exploit
 
-- Exploit Title: ATutor 2.2.4 'Backup' Remote Command Execution 
+- Exploit Title: ATutor 2.2.4 'Backup' Remote Command Execution (CVE-2019-12170)
 - Google Dork: inurl:/ATutor/login.php
 - Date: 5/13/2019
 - Exploit Author: liquidsky (Joseph McPeters)
