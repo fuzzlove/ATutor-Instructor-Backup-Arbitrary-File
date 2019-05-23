@@ -40,3 +40,5 @@ However by default the installation calls for the dir name to be "content". This
 - A copy of the PoC zip file (pwned_backup.zip) can be downloaded: https://github.com/fuzzlove/ATutor-Instructor-Backup-Arbitrary-File
 
 Screenshots included to show exact steps to successfully reenact exploit.
+
+Update: There is no fix for this issue ATutor is no longer being maintained. [5/22/19]
