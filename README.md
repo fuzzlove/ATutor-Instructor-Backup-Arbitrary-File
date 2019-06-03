@@ -43,7 +43,9 @@ Screenshots included to show exact steps to successfully reenact exploit.
 
 Update: There is no fix for this issue ATutor is no longer being maintained. [5/22/19]
         
-- Directory traversal is also possible if the content directory is not in the webroot.
+- Directory traversal is also possible if the content directory is not in the webroot. 
+
+For more information on a directory traversal proof of concept check out: https://github.com/fuzzlove/ATutor-2.2.4-Language-Exploit/
         
         CVE-2019-12170: https://github.com/fuzzlove/ATutor-Instructor-Backup-Arbitrary-File
         CVE-2019-12169: https://github.com/fuzzlove/ATutor-2.2.4-Language-Exploit
